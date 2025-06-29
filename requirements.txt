@@ -1,0 +1,3 @@
+spacy
+fastapi>=1.7.1
+datasets
